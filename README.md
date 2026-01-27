@@ -8,9 +8,35 @@ I break things professionally (cloud infrastructure, APIs, GPU instances) and oc
 
 ### 🔧 What I Do
 
-- **Testing & Automation** — Python, pytest, Locust, Jenkins pipelines, performance testing at scale
-- **Cloud Infra** — VM orchestration, GPU compute testing, infrastructure monitoring with PromQL/LogQL
-- **RF/ML Research** — Digital Predistortion for power amplifiers, 5G/6G signal processing, published some papers along the way
+- **Testing & Automation** — Python, pytest, Locust, FastAPI, Jenkins pipelines, performance testing at scale
+- **Cloud & Infra** — VM orchestration, GPU compute testing, AWS, OpenSearch/Elasticsearch, PromQL/LogQL
+- **AI/ML Testing** — Quality metrics (BLEU, ROUGE, F1), ML pipeline validation, agentic framework testing
+- **RF/ML Research** — Digital Predistortion for power amplifiers, 5G/6G signal processing, published papers
+
+---
+
+### 🏗️ Things I've Built & Broken
+
+**AI Testing Framework**
+- Architected a comprehensive AI testing framework with FastAPI
+- Built quality metrics system (BLEU, ROUGE, recall, F1) for model evaluation
+- Fine-tuned in-house models for sentiment analysis and language detection
+- Designed modular architecture — 5 minute integration into any product
+
+**Enterprise AI Platform Testing**
+- Tested AI backbone platforms handling millions of customer interactions
+- Coordinated cross-team integration testing across 7+ product teams and 20+ engineers
+- If it touched AI at enterprise scale, I probably broke it first
+
+**Agentic Framework Services**
+- End-to-end testing for next-gen agentic frameworks
+- Built mock servers to simulate real customer interactions
+- Load tested to find optimal concurrency parameters (the hard way)
+
+**MLOps & Search Systems**
+- Tested ML pipelines end-to-end, significantly reduced production incidents
+- Deployed and maintained OpenSearch clusters in AWS
+- Validated document ingestion processes handling millions of records
 
 ---
 
