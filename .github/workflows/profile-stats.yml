@@ -21,5 +21,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: mkpvishnu
-          THEME: tokyonight
           UTC_OFFSET: 5.5

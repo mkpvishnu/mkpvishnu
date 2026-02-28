@@ -45,17 +45,17 @@ I break things professionally (cloud infrastructure, APIs, GPU instances) and oc
 ### 📊 Stats
 
 <p align="center">
-  <img src="profile-summary-card-output/0-profile-details.svg" alt="Profile Details" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" width="400" />
-  <img src="profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language" width="400" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="400" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="400" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/3-stats.svg" alt="Stats" width="400" />
-  <img src="profile-summary-card-output/4-productive-time.svg" alt="Productive Time" width="400" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="400" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="400" />
 </p>
 
 ---
